@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "sk-planes2-c36ec": {
+      "hosting": {
+        "sk-planes": [
+          "sk-planes2-c36ec"
+        ]
+      }
+    }
+  }
+}
